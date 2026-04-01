@@ -8,7 +8,7 @@
 ## Speed – Actual Results on Loan Dataset
 | Model | Training Time |
 |---|---|
-| Random Forest (tuned) | 0.448 seconds |
+| Random Forest (tued) | 0.448 seconds |
 | Extra Trees (n_estimators=300) | 0.659 seconds |
 
 On this dataset Extra Trees was slightly slower.
